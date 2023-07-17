@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = robert.ronneberger@gmail.com
+	name = robert berger
